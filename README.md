@@ -23,6 +23,8 @@
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-brightgreen)
 ![Java](https://img.shields.io/badge/-Java-blue)
 ![Microservices](https://img.shields.io/badge/-Microservices-lightgrey)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
+
 
 ### Tools & Platforms
 
