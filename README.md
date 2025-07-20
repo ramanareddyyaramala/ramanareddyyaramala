@@ -35,6 +35,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
 
 ---
 
